@@ -1,12 +1,6 @@
 # 💫 About Me
-### 👋 Hi there, I'm Betsegaw  
+Hi there 👋, I'm Betsegaw, a junior computer engineer passionate about building full-stack systems. I'm currently working on a Church Management System using PHP, Laravel, and MySQL, while also learning React.js and cloud deployment with AWS and Docker. I enjoy collaborating on open-source projects that improve education and healthcare, and I’m always open to helping with PHP, MySQL, and setting up full-stack projects with XAMPP. Beyond tech, I serve in church fellowship leadership and love combining technology with ministry. Fun fact: I enjoy exploring how faith and technology can work together to solve real problems.  
 
-💻 I'm currently working on a **Church Management System** using PHP, Laravel, and MySQL.  
-🤝 I'm looking to collaborate on **open-source projects** that improve education and healthcare.  
-🙏 I'm looking for help with **optimizing database queries** and building **better UI/UX** for web apps.  
-📚 I'm currently learning **React.js** and **Cloud deployment (AWS & Docker)**.  
-💬 Ask me about **PHP, MySQL, or setting up full-stack projects with XAMPP**.  
-🎉 Fun fact: I love combining **tech projects** with my **church fellowship leadership**.  
 
 ---
 
