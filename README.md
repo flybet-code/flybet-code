@@ -40,7 +40,7 @@ Hi there 👋, I'm Betsegaw, a junior computer engineer passionate about buildin
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flybet-code&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=flybet-code&theme=transparent&hide_border=true" height="150"/>
